@@ -1,0 +1,15 @@
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\SRP.ControlDigit.exe.config
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\SRP.ControlDigit.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\SRP.ControlDigit.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\nunit.framework.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\obj\Debug\SRP.ControlDigit.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\obj\Debug\SRP.ControlDigit.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\obj\Debug\SRP.ControlDigit.csproj.CopyComplete
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\obj\Debug\SRP.ControlDigit.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\obj\Debug\SRP.ControlDigit.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\nunit.engine.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\nunit.engine.api.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\nunit.engine.core.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Модульность\Контрольный разряд\bin\Debug\testcentric.engine.metadata.dll
