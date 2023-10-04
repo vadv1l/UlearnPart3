@@ -1,0 +1,10 @@
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\bin\Debug\Inheritance.MapObjects.exe.config
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\bin\Debug\Inheritance.MapObjects.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\bin\Debug\Inheritance.MapObjects.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\bin\Debug\nunit.framework.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\bin\Debug\nunitlite.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\obj\Debug\Inheritance.MapObjects.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\obj\Debug\Inheritance.MapObjects.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\obj\Debug\Inheritance.MapObjects.csproj.CopyComplete
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\obj\Debug\Inheritance.MapObjects.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Homm\obj\Debug\Inheritance.MapObjects.pdb

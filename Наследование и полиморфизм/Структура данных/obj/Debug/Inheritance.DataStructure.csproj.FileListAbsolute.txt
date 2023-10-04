@@ -1,0 +1,10 @@
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\bin\Debug\Inheritance.DataStructure.exe.config
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\bin\Debug\Inheritance.DataStructure.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\bin\Debug\Inheritance.DataStructure.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\bin\Debug\nunit.framework.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\bin\Debug\nunitlite.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\obj\Debug\Inheritance.DataStructure.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\obj\Debug\Inheritance.DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\obj\Debug\Inheritance.DataStructure.csproj.CopyComplete
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\obj\Debug\Inheritance.DataStructure.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Наследование и полиморфизм\Структура данных\obj\Debug\Inheritance.DataStructure.pdb
