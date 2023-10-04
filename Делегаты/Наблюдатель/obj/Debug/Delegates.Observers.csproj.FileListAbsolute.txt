@@ -1,0 +1,10 @@
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\bin\Debug\Delegates.Observers.exe.config
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\bin\Debug\Delegates.Observers.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\bin\Debug\Delegates.Observers.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\bin\Debug\nunit.framework.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\bin\Debug\nunitlite.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\obj\Debug\Delegates.Observers.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\obj\Debug\Delegates.Observers.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\obj\Debug\Delegates.Observers.csproj.CopyComplete
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\obj\Debug\Delegates.Observers.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\Делегаты\obj\Debug\Delegates.Observers.pdb
