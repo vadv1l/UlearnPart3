@@ -6,15 +6,17 @@ namespace SRP.ControlDigit
 {
     public static class Extensions
     {
-        public static List<int> ReverseNumb(this long number)
+        // Вспомогательные методы-расширения поместите в этот класс.
+        // Они должны быть понятны и потенциально полезны вне контекста задачи расчета контрольных разрядов.
+        public static List<int> ReverseNumber(this long numb)
         {
-            List<int> reverseNumber = new List<int>();
-            while (number >= 1)
+            List<int> numbers = new List<int>();
+            while (numb > 0)
             {
-                reverseNumber.Add((int)number % 10);
-                number /= 10;
+                numbers.Add(Convert.ToInt32(numb % 10));
+                numb /= 10;
             }
-            return reverseNumber;
+            return numbers;
         }
     }
 
@@ -39,21 +41,25 @@ namespace SRP.ControlDigit
                 result = 10 - result;
             return result;
         }
-
+        private static int SumIsbn10(List<int> numbers)
+        {
+            int sum = 0;
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                sum += (i + 1) * numbers[i];
+            }
+            return sum;
+        }
         public static char Isbn10(long number)
         {
             number *= 10;
-            List<int> reverseNum = number.ReverseNumb();
-            int sum = 0;
-            for (int i = 0; i < reverseNum.Count; i++)
-            {
-                sum += (i + 1) * reverseNum[i];
-            }
-            int result = 11 - sum % 11;
+            List<int> reverseNumb = number.ReverseNumber();
+            int sumIsbn = SumIsbn10(reverseNumb);
 
-            if (result%11 == 10)
+            int result = 11 - sumIsbn%11;
+            if (result % 11 == 10)
             {
-                return 'X';
+                return ('X');
             }
             else
             {
@@ -61,28 +67,65 @@ namespace SRP.ControlDigit
             }
         }
 
-        public static int Luhn(long number)
+        private static int CalculateNumbLuhn(int numb)
         {
-            List<int> numberr = number.ReverseNumb();
-            if (numberr.Count % 2 == 1)
+            numb *= 2;
+            if (numb > 9)
             {
-                for (int i = 0; i < numberr.Count; i+=2)
-                {
-                    numberr[i] *= 2;
-                    if (numberr[i] > 9)
-                    {
-                        numberr[i] = numberr[i] % 10 + numberr[i] / 10;
-                    }
-                }
+                return numb % 10 + numb / 10;
             }
             else
             {
-                for (int i = 1; i < numberr.Count; i+=2)
+                return numb;
+            }
+        }
+        private static List<int> NewListLuhn(long number)
+        {
+            List<int> numbers = number.ReverseNumber();
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                if (numbers.Count%2==0)
                 {
-
+                    if ((i+1) % 2 == 1)
+                    {
+                        numbers[i] *= 2;
+                        if (numbers[i] > 9)
+                        {
+                            numbers[i] -= 9;
+                        }
+                    }
+                }
+                else
+                {
+                    if ((i+1) % 2 == 1)
+                    {
+                        numbers[i] = CalculateNumbLuhn(numbers[i]);
+                    }
                 }
             }
-
+            return numbers;
+        }
+        private static int SumLuhn(List<int>numbers)
+        {
+            int sumNumbers = 0;
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                sumNumbers += numbers[i];
+            }
+            return sumNumbers;
+        }
+        public static int Luhn(long number)
+        {
+            List<int> numbers = NewListLuhn(number);
+            int sumNumbers = SumLuhn(numbers);
+            if (sumNumbers%10 == 0)
+            {
+                return 0;
+            }
+            else
+            {
+                return 10 - sumNumbers % 10;
+            }
         }
     }
 }
