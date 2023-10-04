@@ -1,0 +1,11 @@
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\bin\Debug\ReportMaker.cs
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\bin\Debug\Incapsulation.Failures.exe.config
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\bin\Debug\Incapsulation.Failures.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\bin\Debug\Incapsulation.Failures.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\bin\Debug\nunit.framework.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\bin\Debug\nunitlite.dll
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\obj\Debug\Incapsulation.Failures.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\obj\Debug\Incapsulation.Failures.exe
+C:\Users\vadim\OneDrive\Рабочий стол\подготовка к пересдачам\юлёрн ипаный\инкапсуляция\Сбои\obj\Debug\Incapsulation.Failures.pdb
